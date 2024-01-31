@@ -28,7 +28,7 @@ is usually immediately replayed to break the tie.
 Image Credits : Wiki Pedia
 
 
-**Possible cases** -  
+**Possible cases** -  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 * if (player == rock) and (computer == paper); computer wins
 * if (player == paper) and (computer == paper); tie
