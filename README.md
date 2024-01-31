@@ -67,6 +67,7 @@ Image Credits : Wiki Pedia
 ## Requirements
 
 * 64 Bit Windows / Open Source Linux & its derivatives.
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 * Open Source Programming Tools like G++/GCC, C++ IDE (Visual Studio Code or any other).
 
 
